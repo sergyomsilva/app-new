@@ -11,7 +11,7 @@
 
 - Clonar o projeto:
 
-`git clone https://github.com/sergyomsilva/app-s3rg10ms.git`
+`git clone https://github.com/sergyomsilva/app-new.git`
 
 - Instalar dependências:
 
