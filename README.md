@@ -1,6 +1,6 @@
-#API em Laravel para cadastro de notícias através da API Google News
+# API em Laravel para cadastro de notícias através da API Google News
 
-###Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 - PHP 7.4
 - Laravel 8.83.7
@@ -52,7 +52,7 @@
 ------------
 
 
-###Documentação de uso da API
+### Documentação de uso da API
 
 A API conta com dois endpoints somente. Um para listar todas as notícias e outro para somente listar a notícia através de um ID.
 
