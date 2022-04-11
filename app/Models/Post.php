@@ -18,10 +18,4 @@ class Post extends Model
         'content',
         'publishedAt',
     ];
-
-    public function getTitleAttribute($value)
-    {
-        return strtoupper($value);
-    }
-
 }
