@@ -1,4 +1,4 @@
-#API em Laravel para cadastro de produtos e movimentações
+#API em Laravel para cadastro de notícias através da API Google News
 
 ###Tecnologias utilizadas:
 
